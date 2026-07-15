@@ -1,0 +1,17 @@
+{
+  "company": "Connect 360",
+  "tagline": "Your Business. Connected 360°",
+  "domain": "connect360.shop",
+  "email": "info@connect360.shop",
+  "phone": "+91 85918 40924",
+  "address": "Office No. 508, Mahim West, Mumbai",
+  "copyright": "© 2026 Connect 360. All Rights Reserved.",
+  "services": [
+    "RCS Business Messaging",
+    "Bulk SMS",
+    "WhatsApp Business API",
+    "IVR",
+    "SMPP",
+    "OTP SMS"
+  ]
+}
